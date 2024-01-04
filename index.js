@@ -37,44 +37,44 @@ fetch('./team.JSON')
 
 
         // preloader
-        let typing = {
-            text: "“THE ULTIMATE RISK IS NOT TAKING ONE”",
-            index: 0,
-            chars: 0,
-            speed: 100,
-            container: ".preloader .text",
-            init: function() {
-                this.chars = this.text.length;
-                return this.write();
-            },
-            write: function() {
-                $(this.container).append(this.text[this.index]);
+        // let typing = {
+        //     text: "“THE ULTIMATE RISK IS NOT TAKING ONE”",
+        //     index: 0,
+        //     chars: 0,
+        //     speed: 100,
+        //     container: ".preloader .text",
+        //     init: function() {
+        //         this.chars = this.text.length;
+        //         return this.write();
+        //     },
+        //     write: function() {
+        //         $(this.container).append(this.text[this.index]);
 
-                if (this.index < this.chars) {
-                    this.index++;
+        //         if (this.index < this.chars) {
+        //             this.index++;
 
-                    return window.setTimeout(function() {
-                        return typing.write();
-                    }, this.speed);
-                } else {
-                    //$('.preloader .sign').css({'opacity': '1'});
+        //             return window.setTimeout(function() {
+        //                 return typing.write();
+        //             }, this.speed);
+        //         } else {
+        //             //$('.preloader .sign').css({'opacity': '1'});
 
-                    setTimeout(() => {
-                        $('.preloader .content').animate({
-                            opacity: 0
-                        }, 1000, function() {
-                            $('.preloader').animate({
-                                opacity: 0
-                            }, 1000, function() {
-                                $(this).remove();
-                            });
-                        });
-                    }, 2500);
-                };
-            }
-        };
+        //             setTimeout(() => {
+        //                 $('.preloader .content').animate({
+        //                     opacity: 0
+        //                 }, 1000, function() {
+        //                     $('.preloader').animate({
+        //                         opacity: 0
+        //                     }, 1000, function() {
+        //                         $(this).remove();
+        //                     });
+        //                 });
+        //             }, 2500);
+        //         };
+        //     }
+        // };
 
-        typing.init();
+        // typing.init();
 
 
         // news for preview demo
