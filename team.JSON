@@ -1,0 +1,18 @@
+{
+  "TA": {
+    "desc": "A visionary in the blockchain realm, melds technological acumen with strategic foresight. As a pioneering architect of innovative blockchain solutions, his work transcends conventional boundaries, crafting blueprints that shape the future of decentralized technology. TA's expertise, marked by a blend of analytical prowess and creative ingenuity, positions him at the forefront of the blockchain revolution. His leadership and insights continue to catalyze transformative changes in the industry, heralding a new era of digital innovation.",
+    "img": "tA",
+    "role": {
+      "full": "Founder",
+      "short": "Founder"
+    }
+  },
+  "Doris Wang": {
+    "desc": "Doris has a decade of experience in traditional finance and startups. As founder of AECC fashion brand, she exited the company for USD5mil while in her 20s, and is also a lead investor and officer of a Hang Seng-listed company. A former CETV anchor, and fashion designer for bespoke gowns for UHWIs, Doris has vast and long-running relationships in fashion, media and finance across the globe, from N Asia to Dubai, Vancouver, and NYC. She is an alumnus of Vancouver’s Simon Fraser University Communications in Canada. In her dual role as Managing Director and CFO, she is focused on building both capital and human capital efficiencies.",
+    "img": "dorisWang",
+    "role": {
+      "full": "Chief Financial Officer",
+      "short": "CFO"
+    }
+  }
+}

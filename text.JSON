@@ -1,0 +1,99 @@
+[
+  {
+    "block": "ABOUT",
+    "texts": {
+      "about-title-1": "LONG-TERM VISION FOR",
+      "about-title-2": "LASTING IMPACT",
+      "about-text": "Frontier technologies that will change how we live, work requires long-term commitment and vision. Most funds are focused on individual companies. We have a 25 year plan to invest in the creation of products to become the gateway, rails, and foundations to develop new markets, and grow nascent ones."
+    },
+    "className": "block about"
+  },
+  {
+    "block": "GLOBAL",
+    "texts": {
+      "global-title": "TECHNOLOGY IS GLOBAL. SO ARE WE AT DAOVERSE CAPITAL",
+      "global-text": "Decentralized teams with an unparalleled depth and breadth of relationships to maximize opportunities without borders."
+    },
+    "className": "block global"
+  },
+  {
+    "block": "PORTFOLIO"
+  },
+  {
+    "block": "ECOSYSTEM",
+    "texts": {
+      "ecosystem-title-1": "THE METAVERSE IS AN",
+      "ecosystem-title-2": "<div class='line'></div>ECO-SYSTEM",
+      "ecosystem-text-1": "Add value to the ecosystem and all participants within DAOs, as long as they have data-based governance and a reputation management system, will partake in the value we co-create.",
+      "ecosystem-text-2": "A practical framework of aligned incentives will allow for us to build a better world together.",
+      "ecosystem-text-3": "Metaverse: Immersive inclusion for user acquisition and retention based on fairness, and transparency. <img src='assets/svg/iconVector.svg'>",
+      "ecosystem-text-4": "Biotechnology: technology to augment humans <img src='assets/svg/iconVector.svg'>",
+      "ecosystem-text-5": "Hybrid Solutions: the best of DeFi, NFT, SoFi, GameFi, E-commerce and Life Sciences <img src='assets/svg/iconVector.svg'>"
+    },
+    "className": "block ecosystem"
+  },
+  {
+    "block": "INVESTING",
+    "texts": {
+      "investing-title-1": "INVESTING THESIS",
+      "investing-text-1": "DAOVERSE CAPITAL spearheads and fervently champions the advancement of groundbreaking technology, aiming to significantly enhance social productivity and elevate the quality of life across communities.",
+      "investing-text-2": "Life & Health",
+      "investing-text-3": "NAD + Life and Health <span>Japan</span>",
+      "investing-text-4": "Reproductive Medicine <span>Ukraine</span>",
+      "investing-text-5": "Stem Cell Genetic Engineering <span>Thailand</span>",
+      "investing-text-6": "Sustainable Development",
+      "investing-text-7": "High-end Agriculture",
+      "investing-text-8": "Green Energy",
+      "investing-text-9": "Carbon Neutral",
+      "investing-text-10": "Metaverse Infrastructure\\Web3 Platforms",
+      "investing-text-11": "Web3 DeFi: Peer to Peer Social Lending",
+      "investing-text-12": "Creator Economy",
+      "investing-text-13": "Play and Learn and Earn"
+    },
+    "className": "block investing"
+  },
+  {
+    "block": "FUND",
+    "texts": {
+      "fund-title-1": "CAPITAL FUND DAOVERSE",
+      "fund-title-2": "VENTURE<div class='line'></div>",
+      "fund-text-1": "Private pre-sale opportunities in crypto for products based on: blockchain, web3, metaverse, utility enable NFTs, DeFi, GameFI, SoFi, and other cutting-edge tools and business models.",
+      "fund-text-2": "<div class='border' id='border-readmore1-1'></div> With a combined 30-year track record in traditional finance, alternative and digital assets, and hedge funds, we screen investments with an eye towards long-term value.",
+      "fund-text-3": "<div class='border' id='border-readmore1-2'></div>All of our GPs are ultra-high net worth individuals with a background in scaling capital.",
+      "fund-text-4": "<div class='border' id='border-readmore1-3'></div>We steward infrastructural technologies developed by top research scientists and promising founders, finding opportunities through a global network of active entrepreneurs."
+    },
+    "className": "block fund"
+  },
+  {
+    "block": "CONTACT",
+    "texts": {
+      "contact-title-1": "JOIN DAOVERSE",
+      "contact-text-1": "Successful Chinese<br>Entrepreneurs Family Office",
+      "contact-text-2": "Middle Easter<br>Royalty",
+      "contact-text-3": "European<br>RoyaltyFamily Office",
+      "contact-text-4": "Top European<br>Players",
+      "contact-text-5": "info@daoverse.capital",
+      "contact-text-6": "HQ : Penthouse,Gate Village 7, DIFC, Dubai, UAE"
+    },
+    "className": "contact"
+  },
+  {
+    "block": "FOOTER",
+    "texts": {
+      "footer-text-1": "DAOVERSE CAPITAL spearheads and fervently champions the advancement of groundbreaking technology, aiming to significantly enhance social productivity and elevate the quality of life across communities.",
+      "footer-text-2": "Daoverse Capital is a company registered under cayman Islands",
+      "footer-text-3": "Terms & Conditions",
+      "footer-text-4": "Privacy Policy",
+      "footer-text-5": "Cookie Policy",
+      "footer-text-6": "All rights reserved@ 2024 DAOVERSE"
+    },
+    "className": "footer"
+  },
+  {
+    "block": "TEAM",
+    "texts": {
+      "team-title-1": "MANAGEMENT TEAM"
+    },
+    "className": "block team"
+  }
+]

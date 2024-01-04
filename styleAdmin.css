@@ -1,0 +1,39 @@
+.form-group
+{
+    margin-top: 5rem;
+}
+p{
+    margin-top: 2rem;
+}
+textarea{
+    width: 100%;
+    height: fit-content;
+}
+.btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+}
+#cover{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    z-index: 5000;
+    left: 0;
+    top: 0;
+    background-color: #3b3b3b;
+}
+#login{
+    position: absolute;
+    z-index: 5001;
+    display: block;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#logout{
+    z-index: 4999;
+    margin-right: 0;
+}
